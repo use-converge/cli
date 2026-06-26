@@ -8,6 +8,7 @@ Converge is currently in private beta. The CLI can be installed publicly, but us
 
 ```bash
 brew tap use-converge/cli
+brew trust --formula use-converge/cli/converge
 brew install converge
 ```
 
