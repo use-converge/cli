@@ -17,7 +17,7 @@ Manual release archives are available from the [releases page](https://github.co
 ## Configure
 
 ```bash
-export CONVERGE_BASE_URL="https://your-converge-host.example"
+export CONVERGE_BASE_URL="https://app.use-converge.com"
 export CONVERGE_API_KEY="cvg_..."
 ```
 
